@@ -1,4 +1,5 @@
- "name": "vcpf",
+{
+"name": "vcpf",
  "version": "1.0.0",
  "description": "API para validar cpf",
  "author": "First Last <first.last@example.com>",
